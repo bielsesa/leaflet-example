@@ -44,5 +44,10 @@
     "tslint": "~5.15.0",
     "typescript": "~3.5.3",
     "leaflet": "1.6.0"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "semi": true,
+    "trailingComma": "es5"
   }
 }
